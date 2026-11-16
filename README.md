@@ -7,7 +7,7 @@ B.Tech First Year, Bosscoder School of Technology.
 The work progresses from terminal and Git basics to a responsive portfolio
 site built with semantic HTML, CSS, Flexbox and Grid.
 
-**Author:** Akshita Rai | **Roll No:** 2392608079
+**Author:** Syed Danish Rizwan | **Roll No:** 2392608042
 
 ## Contents
 
